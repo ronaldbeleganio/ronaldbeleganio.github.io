@@ -295,6 +295,7 @@ ul#nav li.current a { color: #F06000; }
   	margin-top: 36px;
    list-style: none;
 }
+
 .bars li {
    position: relative;
   	margin-bottom: 60px;
@@ -326,19 +327,19 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .html5 {
-  	width: 80%;
+  	width: 75%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
 
 .css {
-    width: 90%;
+    width: 60%;
     -moz-animation: html5 2s ease;
     -webkit-animation: html5 2s ease;
 }
 
 .javascript {
-    width: 70%;
+    width: 55%;
     -moz-animation: html5 2s ease;
     -webkit-animation: html5 2s ease;
 }
@@ -411,23 +412,23 @@ ul#nav li.current a { color: #F06000; }
 
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 75%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes javascript {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 55%;  }
 }
 @-moz-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 40%;  }
 }
 @-moz-keyframes php {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 50%;  }
 }
 @-moz-keyframes csharp {
   0%   { width: 0px;  }
@@ -468,23 +469,23 @@ ul#nav li.current a { color: #F06000; }
 
 @-webkit-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 70%;  }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 55%;  }
 }
 @-webkit-keyframes javascript {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 40%;  }
 }
 @-webkit-keyframes php {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 50%;  }
 }
 @-webkit-keyframes csharp {
   0%   { width: 0px;  }
