@@ -326,37 +326,37 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .html5 {
-  	width: 80%;
+  	width: 60%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
 
 .css {
-    width: 90%;
+    width: 55%;
     -moz-animation: html5 2s ease;
     -webkit-animation: html5 2s ease;
 }
 
 .javascript {
-    width: 70%;
+    width: 45%;
     -moz-animation: html5 2s ease;
     -webkit-animation: html5 2s ease;
 }
 
 .jquery {
-    width: 60%;
+    width: 50%;
     -moz-animation: html5 2s ease;
     -webkit-animation: html5 2s ease;
 }
 
 .php {
-    width: 70%;
+    width: 60%;
     -moz-animation: html5 2s ease;
     -webkit-animation: html5 2s ease;
 }
 
 .csharp {
-    width: 80%;
+    width: 75%;
     -moz-animation: html5 2s ease;
     -webkit-animation: html5 2s ease;
 }
@@ -368,13 +368,13 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .cplusplus {
-    width: 45%;
+    width: 35%;
     -moz-animation: html5 2s ease;
     -webkit-animation: html5 2s ease;
 }
 
 .vbnet {
-    width: 65%;
+    width: 45%;
     -moz-animation: html5 2s ease;
     -webkit-animation: html5 2s ease;
 }
